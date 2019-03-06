@@ -15,5 +15,12 @@ namespace TestProject
         {
             InitializeComponent();
         }
+
+        private void test()
+        {
+            int a = 9;
+            int b = 0;
+        }
+
     }
 }
